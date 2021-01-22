@@ -5,5 +5,6 @@ for i in parts:
     a=a+str(i[0]).upper()
 
 print(a)
+print(a)
     
 
