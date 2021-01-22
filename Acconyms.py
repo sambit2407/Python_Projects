@@ -6,5 +6,6 @@ for i in parts:
 
 print(a)
 print(a)
+print(a)
     
 
